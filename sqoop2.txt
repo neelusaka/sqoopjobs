@@ -1,1 +1,3 @@
 new job
+
+do this process after success sqoop job
